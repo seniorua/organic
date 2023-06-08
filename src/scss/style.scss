@@ -750,6 +750,13 @@
     &__img {
     }
   }
+
+  .footer{
+    &__inner{
+    flex-wrap: wrap;
+    justify-content: center;
+    }
+  }
 }
 // -------------------------------------
 // .botmenu{

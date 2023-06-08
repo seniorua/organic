@@ -1621,4 +1621,11 @@ li:hover > .menu__sub {
   .face-pic {
     height: 100px;
   }
+  .footer__inner {
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+  }
 }
